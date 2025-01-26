@@ -32,8 +32,7 @@ A minimalist Snake game featuring macOS design aesthetics, built with Pygame.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/macos-snake-game.git
-   cd macos-snake-game
+   git clone https://github.com/brianhar-520/snake_game_build_by_cursor.git
    ```
 
 2. Install dependencies
